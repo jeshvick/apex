@@ -1,0 +1,124 @@
+{
+    "sampleApps": [
+        {
+            "internalName": "SAMPLE_APP_NAME",
+            "author": "__AUTHOR__",
+            "version": "22.1.2",
+            "icon": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/docs/img/apps/app-sample-approvals.svg",
+            "url": "https://github.com/jrwarwick/apex-gallery-jrwarwick/blob/22.1/sample-apps/sample-approvals",
+            "source": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/sample-apps/sample-approvals/sample-approvals.sql",
+            "zip": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/sample-apps/sample-approvals/sample-approvals.zip",
+            "license": "",
+            "i18n": {
+                "en": {
+                    "name": "Sample Application Name Long and Anthrocentric",
+                    "description": "This application has a purpose described here in this text. Overview and encouragement. Gotchas, recommendations, advice, and ProTips as well."
+                },
+                "de": {
+                    "name": "",
+                    "description": ""
+                },
+                "es": {
+                    "name": "",
+                    "description": ""
+                },
+                "fr": {
+                    "name": "",
+                    "description": ""
+                },
+                "it": {
+                    "name": "",
+                    "description": ""
+                },
+                "ja": {
+                    "name": "",
+                    "description": ""
+                },
+                "ko": {
+                    "name": "",
+                    "description": ""
+                },
+                "pt-br": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-cn": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-tw": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        }
+    ],
+    "starterApps": [
+        {
+            "internalName": "SIMPLE-SECRET-SHARE",
+            "author": "jrwarwick",
+            "version": "22.1.0",
+            "icon": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/docs/img/apps/simple-secret-share-app-icon.svg",
+            "url": "https://github.com/jrwarwick/apex-gallery-jrwarwick/tree/22.1/starter-apps/simple-secret-share",
+            "source": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/starter-apps/simple-secret-share/simple-secret-share.sql",
+            "zip": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/starter-apps/simple-secret-share/simple-secret-share.zip",
+            "license": "",
+            "i18n": {
+                "en": {
+                    "name": "Simple Secret Share",
+                    "description": "Simple Secret Share is a tool to help you avoid transmitting plain text passwords to new users and users who have had passwords reset on their behalf. If you've heard of PasswordPusher, this is essentially a facsimile."
+                },
+                "de": {
+                    "name": "",
+                    "description": ""
+                },
+                "es": {
+                    "name": "",
+                    "description": ""
+                },
+                "fr": {
+                    "name": "",
+                    "description": ""
+                },
+                "it": {
+                    "name": "",
+                    "description": ""
+                },
+                "ja": {
+                    "name": "",
+                    "description": ""
+                },
+                "ko": {
+                    "name": "",
+                    "description": ""
+                },
+                "pt-br": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-cn": {
+                    "name": "",
+                    "description": ""
+                },
+                "zh-tw": {
+                    "name": "",
+                    "description": ""
+                }
+            }
+        }
+    ],
+    "plugins": [
+        {
+            "name": "Plug-in Special",
+            "author": "__AUTHOR__",
+            "version": "1.0.0",
+            "description": "This plug-in is described here, thoroughly.",
+            "icon": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/docs/img/apps/app-sample-restful-services.svg",
+            "url": "https://github.com/jrwarwick/apex-gallery-jrwarwick/tree/22.1/plugins/rest-source/fixed-page-size",
+            "source": "https://raw.githubusercontent.com/jrwarwick/apex-gallery-jrwarwick/22.1/plugins/rest-source/fixed-page-size/web_source_type_fixedpagesize.sql",
+            "zip": "",
+            "license": ""
+        }
+    ]
+}
+
